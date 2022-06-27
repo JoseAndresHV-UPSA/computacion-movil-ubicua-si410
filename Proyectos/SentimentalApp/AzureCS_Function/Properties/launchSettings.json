@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureCS_Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7219",
+      "launchBrowser": false
+    }
+  }
+}
